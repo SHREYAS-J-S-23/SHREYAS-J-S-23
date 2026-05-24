@@ -1,3 +1,7 @@
+# Hey there 👋, I'm Shreyas J S
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on MERN Stack and Generative AI projects  <br>👯 I’m looking to collaborate on Full Stack Web Development projects  <br>🌱 I’m currently learning Next.js, DSA, and AI technologies  <br>💬 Ask me about MERN Stack, React, Node.js, and C++  <br>⚡ Fun fact: I love building real-world projects and exploring new technologies  
 
