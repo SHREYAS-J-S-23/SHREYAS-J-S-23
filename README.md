@@ -1,4 +1,4 @@
-<img src="banner.svg" width="100%" />
+<img src="SHREYAS-J-S-23-profile-banner.svg" width="100%" />
 
 
 # 💫 About Me:
