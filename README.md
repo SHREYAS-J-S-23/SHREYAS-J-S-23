@@ -1,5 +1,4 @@
- ## Hey there 👋, I'm Shreyas J S
-
+<img src="banner.svg" width="100%" />
 
 
 # 💫 About Me:
