@@ -4,7 +4,6 @@
 # 💫 About Me:
 🔭 I’m currently working on MERN Stack and Generative AI projects  <br>👯 I’m looking to collaborate on Full Stack Web Development projects  <br>🌱 I’m currently learning Next.js, DSA, and AI technologies  <br>💬 Ask me about MERN Stack, React, Node.js, and C++  <br>⚡ Fun fact: I love building real-world projects and exploring new technologies
 
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/1508030361009913888/1508030361484005438) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyassssss.js) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreyas-js-ab3055330/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyasjs227@gmail.com) 
 
